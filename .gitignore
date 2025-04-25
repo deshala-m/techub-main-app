@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+env
+amplify
+amplify_outputs.json
 
 # Editor directories and files
 .vscode/*
